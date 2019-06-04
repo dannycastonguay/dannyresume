@@ -4,9 +4,9 @@
   job_title: Founder & CEO
   dates: 2018 - Present
   quote: >
-    High performance, low overhead teams assembled in days.
+    Talented assembles high performance, low overhead teams in days.
   description: | # this will include new lines to allow paragraphs
-    I built a network of boutique consulting agencies (design, data science, development, and video animations) with over 500 people between North America, Eastern Europe, Israel, India, and Philippines. I launched product teams at 5+ clients. For instance, at a Big Five tech company, where I am leading the team building a digital twin for the physical flow infrastructure to predict failures, and make real time deployment of mobile fleet to keep data centers alive in case of disruptions. 
+    I built a network of boutique consulting agencies (design, data science, development, and video animations) with over 500 people between North America, Eastern Europe, Israel, India, and Philippines. I launched product teams at 5+ clients. For instance, at a Big Five tech company, I am leading the team building a digital twin for the physical flow infrastructure to predict failures, and make real time deployment of the mobile fleet to keep data centers alive in case of disruptions. 
 
 - layout: left
   company: McKinsey & Company
@@ -16,8 +16,8 @@
   quote: >
     McKinsey & Company is the trusted advisor and counselor to many of the world's most influential businesses and institutions.
   description: | # this will include new lines to allow paragraphs
-    I served companies in several industries, including railroads, mining, refining, oil&gas (upstream and downstream), electricity production and distribution, banking, retail, and non-profits. My lead role consisted in scoping, building and deploying software solutions(machine learning, mobile apps, data pipelines) and crafting executive communication. For example, a scheduling tool I built saved a logistics company several $100Ms in fuel, crews and equipment. 
-    I was also an internal faculty to teach machine learning to other consultants and I led initiative to connect with academics on topics such as deep learning, reinforcement learning, quantum computing, game theory, and robust optimization.
+    I served companies in several industries, including railroads, mining, refining, oil & gas (upstream and downstream), electricity production and distribution, banking, retail, and non-profits. My lead role consisted in scoping, building and deploying software solutions (machine learning, mobile apps, data pipelines) and crafting executive communication. For example, a scheduling tool I built saved a logistics company several $100Ms in fuel, crews and equipment. 
+    I was also an internal faculty to teach machine learning to other consultants and I led an initiative to connect with academics on topics such as deep learning, reinforcement learning, quantum computing, game theory, and robust optimization.
  
 - layout: left
   company: Kalibrr
@@ -35,7 +35,7 @@
   job_title: Instructor | Adjunct Professor
   dates: 2012 - 2013
   quote: >
-    We train and fund top MIT students and alumni to conduct technology incubator courses globally. 
+    MIT GSL trains and funds top MIT students and alumni to conduct technology incubator courses globally. 
   description: | # this will include new lines to allow paragraphs
     I led 100+ undergrad/grad students through two semesters. I created the curiculum for an intensive course going from idea generation to rapid prototyping and user testing. I organized hackathons and investor presentations. Two teams presented at Google Developers Day Philippines.
 
