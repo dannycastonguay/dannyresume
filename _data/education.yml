@@ -1,10 +1,22 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Massachusetts Institute of Technology
+  dates: 2011 - 2013
+  qualification: MBA
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Awarded a $50,000 fellowship by the Legatum Center for Development and Entrepreneurship.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at MIT, I took classes such as Linked Data Ventures with Tim Berners-Lee, Sustainability with Jason Jay, Macro-econ with Roberto Rigobon, and Robust Optimization with Dimitris Bertsimas. I also co-founded Kalibrr and joined Y-Combinator during my last semester.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+- layout: left
+  name: McGill University
+  dates: 2001 - 2006
+  qualification: Undergrad and Master of Electrical, Computer and Software Engineering
+  quote: > 
+    Awarded provincial scholarship by the Fonds quebecois de la recherche sur la nature et les technologies, and awarded federal scholarship by the Natural Sciences and Engineering Research Council of Canada.
+  description: | # this will include new lines to allow paragraphs
+    As an Undergrad I took several graduate level courses such as Articifial Intelligence, Random Processes, Human Computer Interface, and Game Theory. I completed a Master's Thesis under Shie Mannor, the (then) Canadian Chair of Machine Learning.
+
+    
+
+

@@ -17,16 +17,18 @@ github_username:  dannycastonguay
 # instagram_username: 
 linkedin_username: dannycastonguay
 # pinterest_username: jekyll
-youtube_username: dannycastonguay
+# youtube_username: dannycastonguay
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Founder of Talented.app. Exultant worker, father, and husband.
+  I'm the founder of Talented.app and the co-Founder of Kalibrr.com. I'm a former McKinsey Expert Associate Partner. I'm a husband and father of three. I train Brazilian Jui-Jitsu 5 times a week and I don't compromise on sleep, nutrition, and meditation/relaxation. I challenge my teams, I create accountability structure, and I give a lot of (tough) love.
 
-  I am most skilled in: <mark>business</mark>, <mark>software</mark>, and <mark>health</mark>.
+  Tools I like to use include: <mark>Gitlab</mark>, <mark>SKLearn</mark>, and <mark>Figma</mark>.
+
+  I am most skilled in: <mark>Business</mark>, <mark>Product Management</mark>, and <mark>Team Health</mark>.
 
 # Projects Section
 # projects_title: Projects
