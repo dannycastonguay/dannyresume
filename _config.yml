@@ -5,7 +5,7 @@ repository: dannycastonguay/resume
 # Personal info
 name: Danny Castonguay
 title: Product leader.
-email: danny@talented.app
+email: danny.castonguay@bld.ai
 website: dannycastonguay.com
 
 # Social links
@@ -24,7 +24,7 @@ linkedin_username: dannycastonguay
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm the founder of Talented.app and the co-Founder of Kalibrr.com. I'm a former McKinsey Expert Associate Partner. I'm a husband and father of three. I train Brazilian Jui-Jitsu 5 times a week and I don't compromise on sleep, nutrition, and meditation/relaxation. I challenge my teams, I create accountability structure, and I give a lot of (tough) love.
+  I'm the founder of bld.ai, talented.app and the co-Founder of Kalibrr.com. I'm a former McKinsey Expert Associate Partner. I'm a husband and father of three. I train Brazilian Jui-Jitsu 5 times a week and I don't compromise on sleep, nutrition, and meditation/relaxation. I challenge my teams, I create accountability structure, and I give a lot of (tough) love.
 
   Tools I like to use include: <mark>Gitlab</mark>, <mark>SKLearn</mark>, and <mark>Figma</mark>.
 
