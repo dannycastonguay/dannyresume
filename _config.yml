@@ -5,7 +5,7 @@ repository: dannycastonguay/resume
 # Personal info
 name: Danny Castonguay
 title: Product leader.
-email: danny.castonguay@bld.ai
+email: d@bld.ai
 website: dannycastonguay.com
 
 # Social links
@@ -24,12 +24,8 @@ linkedin_username: dannycastonguay
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm a co-founder of bld.ai and Kalibrr.com, a former McKinsey Expert Associate Partner, and father of three. I exercise everyday and I don't compromise on sleep, nutrition, and meditation/relaxation. I challenge my teams, I create accountability structure, and I give a lot of (tough) love.
-
-  Tools I like to use include: <mark>Gitlab</mark>, <mark>Descript</mark>, and <mark>Figma</mark>.
-
-  I am most skilled in: <mark>Business</mark>, <mark>Product Management</mark>, and <mark>Team Health</mark>.
-
+  Father of 3 and CEO of bld.ai and fairstock.trade. I exercise everyday and I don't compromise on sleep, nutrition, and relaxation. I challenge my teams, I create accountability structure, and I give a lot of (tough) love.
+  
 # Projects Section
 # projects_title: Projects
 

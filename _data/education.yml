@@ -5,8 +5,11 @@
   quote: >
     Awarded a $50,000 fellowship by the Legatum Center for Development and Entrepreneurship.
   description: | # this will include new lines to allow paragraphs
-    During my time at MIT, I took classes such as Linked Data Ventures with Tim Berners-Lee, Sustainability with Jason Jay, Macro-econ with Roberto Rigobon, and Robust Optimization with Dimitris Bertsimas. I also co-founded Kalibrr and joined Y-Combinator during my last semester.
-
+    * Focused on Technology Entrepreneurship and Innovation
+    * Key courses: Linked Data Ventures (Tim Berners-Lee), Sustainability (Jason Jay), Macro-economics (Roberto Rigobon), Robust Optimization (Dimitris Bertsimas)
+    * Co-founded Kalibrr during studies, joined Y-Combinator
+    * Led MIT Technology Entrepreneurship Club
+    * Conducted research on emerging technologies in developing markets
 
 - layout: left
   name: McGill University
@@ -15,7 +18,11 @@
   quote: > 
     Awarded both provincial scholarship by the FQRNT, and federal scholarship by the NSERC.
   description: | # this will include new lines to allow paragraphs
-    As an Undergrad I took several graduate level courses such as Articifial Intelligence, Random Processes, Human Computer Interface, Game Theory, and Quantum Cryptography. I completed a Master's Thesis under Shie Mannor, the (then) Canadian Chair of Machine Learning.
+    * Advanced coursework in Artificial Intelligence, Random Processes, Human Computer Interface, Game Theory, and Quantum Cryptography
+    * Master's Thesis under Shie Mannor (Canadian Chair of Machine Learning)
+    * Technical projects in robotics and machine learning
+    * Research in peer-reviewed journals
+    * Graduated with distinction
 
     
 

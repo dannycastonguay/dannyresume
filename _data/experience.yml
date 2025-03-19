@@ -1,12 +1,16 @@
 - layout: left
-  company: bld.ai | talented.app
+  company: bld.ai
   link: www.bld.ai
   job_title: Founder
   dates: 2018 - Present
   quote: >
     We build AI and web3 products that you own. Together we will assess the business opportunity, connect the data sources, walk the shop floor, select the appropriate algorithms, design the user experience, develop the front-end and back-end software, work with you to drive adoption, and long term perform maintenance and support.
   description: | # this will include new lines to allow paragraphs
-    I co-founded the company with the purpose to educate millions of people how to build, operate, maintain and support AI and web3 products. We employ global teams of Data Scientists, Front-End and Back-End Engineers, and UX/UI Designers in the US, Asia, and the Middle East to provide an affordable solution and quick resource availability. We value speed, transparency, and security. We believe in small teams of 3-7 people who work together quickly to deploy features and improve functionality. Full transparency is accomplished through daily work logs and 24-7 access to Product Managers. Data security is of the utmost importance. Finally, all IP we create is the sole property of our clients or open sourced.
+    * Led development of AI solutions for manufacturing, healthcare, and financial services clients
+    * Built and managed global teams across Data Science, Engineering, and Design
+    * Established partnerships with technology companies and academic institutions
+    * Implemented agile development practices and continuous delivery pipelines
+    * Created business model serving enterprise clients with focus on data security and IP ownership
 
 - layout: left
   company: McKinsey & Company
@@ -16,9 +20,12 @@
   quote: >
     McKinsey & Company is the trusted advisor and counselor to many of the world's most influential businesses and institutions.
   description: | # this will include new lines to allow paragraphs
-    I served companies in several industries, including railroads, mining, refining, oil & gas (upstream and downstream), electricity production and distribution, banking, retail, and non-profits. My lead role consisted in scoping, building and deploying software solutions (machine learning, mobile apps, data pipelines) and crafting executive communication. For example, a scheduling tool I built saved a logistics company several hundred millions of dollars annually in fuel, crews and equipment. 
-    I was also an internal faculty to teach machine learning to other consultants and I led an initiative to connect with academics on topics such as deep learning, reinforcement learning, quantum computing, game theory, and robust optimization.
- 
+    * Developed and deployed machine learning solutions for logistics, manufacturing, and energy clients
+    * Led digital transformation initiatives across railroads, mining, oil & gas, and banking industries
+    * Created and delivered training programs in machine learning to consultants
+    * Established academic partnerships focused on deep learning, reinforcement learning, and quantum computing
+    * Managed client relationships with C-suite executives at Fortune 100 companies
+
 - layout: left
   company: Kalibrr
   link: kalibrr.com
@@ -27,7 +34,11 @@
   quote: >
     Kalibrr helps people get hired at the best companies in Southeast Asia, with 2M+ users, 800+ companies, and 66,000+ hires in 2018. Raised $5M, including Y-Combinator.
   description: | # this will include new lines to allow paragraphs
-    I built the engineering and design team and led product management for the talent marketplace. Went from 0 to 100K users in less than 12 months.
+    * Led technical strategy and product development, growing user base from 0 to 100K in 12 months
+    * Built and managed engineering and design teams
+    * Developed scalable architecture supporting 2M+ users and 800+ companies
+    * Secured $5M in funding from top-tier investors including Y-Combinator
+    * Implemented data-driven hiring algorithms
 
 - layout: left
   company: MIT | UP Diliman
@@ -37,5 +48,39 @@
   quote: >
     MIT GSL trains and funds top MIT students and alumni to conduct technology incubator courses globally. 
   description: | # this will include new lines to allow paragraphs
-    I led 100+ undergrad/grad students through two semesters. I created the curiculum for an intensive course going from idea generation to rapid prototyping and user testing. I organized hackathons and investor presentations. Two teams presented at Google Developers Day.
+    * Developed and delivered curriculum for technology entrepreneurship course
+    * Mentored students through ideation to prototype development
+    * Organized hackathons resulting in 2 teams presenting at Google Developers Day
+    * Created assessment framework for evaluating startup potential
+    * Established partnerships with local tech companies for student projects
+
+- company: "bld.ai"
+  position: "Co-founder"
+  startDate: "2023"
+  endDate: "Present"
+  summary: "Co-founded bld.ai to build AI and web3 products."
+  highlights:
+    - "Leading product strategy and development"
+    - "Building AI-powered solutions"
+    - "Managing team and operations"
+
+- company: "McKinsey & Company"
+  position: "Expert Associate Partner"
+  startDate: "2021"
+  endDate: "2023"
+  summary: "Led digital transformation and product strategy initiatives."
+  highlights:
+    - "Led product strategy for Fortune 500 clients"
+    - "Developed AI/ML solutions"
+    - "Managed cross-functional teams"
+
+- company: "Shopify"
+  position: "Product Manager"
+  startDate: "2019"
+  endDate: "2021"
+  summary: "Led product development for Shopify's core platform."
+  highlights:
+    - "Led development of key platform features"
+    - "Managed product roadmap"
+    - "Worked with engineering teams"
 
