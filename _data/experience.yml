@@ -1,16 +1,16 @@
 - layout: left
   company: bld.ai
   link: www.bld.ai
-  job_title: Founder
+  job_title: Founder & CEO
   dates: 2018 - Present
   quote: >
-    We build AI and web3 products that you own. Together we will assess the business opportunity, connect the data sources, walk the shop floor, select the appropriate algorithms, design the user experience, develop the front-end and back-end software, work with you to drive adoption, and long term perform maintenance and support.
+    bld.ai is a platform where clients explore what they can build with artificial intelligence. Our AI-powered agents help structure well-defined proposals, outlining the situation, complications, resolutions, milestones, and cost estimates. We don't just assemble teams: we provide a mix of AI-driven solutions and top-tier professionals, including designers, engineers, data scientists, attorneys, policy experts, and more. By combining AI with human expertise, we deliver scalable, high-impact solutions that drive real innovation.
   description: | # this will include new lines to allow paragraphs
-    * Led development of AI solutions for manufacturing, healthcare, and financial services clients
-    * Built and managed global teams across Data Science, Engineering, and Design
-    * Established partnerships with technology companies and academic institutions
-    * Implemented agile development practices and continuous delivery pipelines
-    * Created business model serving enterprise clients with focus on data security and IP ownership
+    * Crafted the company vision and led its growth from zero to millions in revenue
+    * Recruited the initial network of service providers and built an industry-agnostic professional services firm
+    * Developed a curation model to recommend the best AI solutions, integrating software, hardware, and human expertise
+    * Led projects for Fortune 500 companies and well-funded startups across mining, energy, retail, banking, Web3, logistics, and more
+    * Delivered AI-driven innovations across diverse functions, including finance, HR, procurement, digital twins, and real-time platforms
 
 - layout: left
   company: McKinsey & Company
@@ -38,7 +38,6 @@
     * Built and managed engineering and design teams
     * Developed scalable architecture supporting 2M+ users and 800+ companies
     * Secured $5M in funding from top-tier investors including Y-Combinator
-    * Implemented data-driven hiring algorithms
 
 - layout: left
   company: MIT | UP Diliman
@@ -52,35 +51,4 @@
     * Mentored students through ideation to prototype development
     * Organized hackathons resulting in 2 teams presenting at Google Developers Day
     * Created assessment framework for evaluating startup potential
-    * Established partnerships with local tech companies for student projects
-
-- company: "bld.ai"
-  position: "Co-founder"
-  startDate: "2023"
-  endDate: "Present"
-  summary: "Co-founded bld.ai to build AI and web3 products."
-  highlights:
-    - "Leading product strategy and development"
-    - "Building AI-powered solutions"
-    - "Managing team and operations"
-
-- company: "McKinsey & Company"
-  position: "Expert Associate Partner"
-  startDate: "2021"
-  endDate: "2023"
-  summary: "Led digital transformation and product strategy initiatives."
-  highlights:
-    - "Led product strategy for Fortune 500 clients"
-    - "Developed AI/ML solutions"
-    - "Managed cross-functional teams"
-
-- company: "Shopify"
-  position: "Product Manager"
-  startDate: "2019"
-  endDate: "2021"
-  summary: "Led product development for Shopify's core platform."
-  highlights:
-    - "Led development of key platform features"
-    - "Managed product roadmap"
-    - "Worked with engineering teams"
 
